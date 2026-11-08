@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { ChevronLeft } from "lucide-react";
-import { buttonVariants } from "@/components/ui/button";
+import { buttonVariants } from "@/components/ui/button-variants";
 import { Avatar } from "@/components/Avatar";
 import { useConversation } from "@/hooks/useConversations";
 import { useUsers } from "@/hooks/useUsers";

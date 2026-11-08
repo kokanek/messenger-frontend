@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { SquarePen, Settings as SettingsIcon } from "lucide-react";
-import { buttonVariants } from "@/components/ui/button";
+import { buttonVariants } from "@/components/ui/button-variants";
 import { Logo } from "@/components/Logo";
 
 export function AppHeader() {
