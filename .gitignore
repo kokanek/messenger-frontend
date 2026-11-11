@@ -10,6 +10,9 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+# vite-plugin-pwa output: dev-dist is written by `npm run dev`, workbox-*.js by both dev and build
+dev-dist
+workbox-*.js
 *.local
 
 # Editor directories and files
